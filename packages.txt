@@ -1,0 +1,4 @@
+poppler-utils
+ghostscript
+python3-tk
+tesseract-ocr
