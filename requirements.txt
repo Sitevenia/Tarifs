@@ -16,3 +16,6 @@ python-levenshtein
 camelot-py[cv]
 pytesseract
 pdfplumber
+scikit-learn
+transformers
+torch
